@@ -1,0 +1,24 @@
+
+Results for the tinyArray
+insert 13.666 μs
+append 41.292 μs
+
+Results for the smallArray
+insert 23.834 μs
+append 45.834 μs
+
+Results for the mediumArray
+insert 113.208 μs
+append 74.917 μs
+
+Results for the largeArray
+insert 5.693041 ms
+append 381 μs
+
+Results for the extraLargeArray
+insert 702.442958 ms
+append 4.793541 ms
+
+Insert is faster until it hits largeArray then  Append takes over with a faster speed.
+Microseconds scales faster than Miliseconds.
+
