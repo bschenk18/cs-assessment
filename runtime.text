@@ -19,6 +19,5 @@ Results for the extraLargeArray
 insert 702.442958 ms
 append 4.793541 ms
 
-Insert is faster until it hits largeArray then  Append takes over with a faster speed.
-Microseconds scales faster than Miliseconds.
+Insert is faster until it hits largeArray then Append takes over with a faster speed. Microseconds scales faster than Miliseconds. All together Append get better for larger Arrays.
 
